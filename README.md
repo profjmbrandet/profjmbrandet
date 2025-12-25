@@ -61,8 +61,8 @@ Atuação direta nos seguintes departamentos e grupos de trabalho:
 
 ## 🌐 Contato & Perfis
 
-🔗 GitHub: https://github.com/[seu-usuario]  
-🔗 LinkedIn: https://www.linkedin.com/in/[seu-perfil]
+🔗 GitHub: https://github.com/profjmbrandet
+🔗 LinkedIn: https://www.linkedin.com/in/jmbrandet/
 
 ---
 
