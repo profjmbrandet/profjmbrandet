@@ -20,7 +20,12 @@
 ## 🎓 Formação Acadêmica & Especializações
 
 📌 **Especialização em Algoritmos**  
-&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Stanford University*
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Stanford University (EUA)*
+
+📌 **Especialização em Segurança Cibernética**  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Google (EUA)*  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *University of Colorado System (EUA)*  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *IBM (EUA)*
 
 📌 **Formação em Programação**  
 &nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Ministério da Educação de Israel*  
