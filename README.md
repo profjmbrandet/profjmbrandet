@@ -22,10 +22,15 @@
 📌 **Especialização em Algoritmos**  
 &nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Stanford University (EUA)*
 
+📌 **Formação em Engenharia**  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Engenharia de Dados - IBM (EUA)*  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Engenharia de IA - IBM (EUA)*  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Engenharia de IA Generativa - IBM (EUA)*
+
 📌 **Especialização em Segurança Cibernética**  
-&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Google (EUA)*  
-&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *University of Colorado System (EUA)*  
-&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *IBM (EUA)*
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Google Cybersecurity - Google (EUA)*  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Segurança Interna e Segurança Cibernética - University of Colorado System (EUA)*  
+&nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Analista de Cibersegurança - IBM (EUA)*
 
 📌 **Formação em Programação**  
 &nbsp;&nbsp;&nbsp;&nbsp;🏛️ *Ministério da Educação de Israel*  
